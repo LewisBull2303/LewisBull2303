@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lewis Bull</h1>
 <h3 align="center">A passionate Full-Stack Developer from England</h3>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/LewisBull2303/E-Commerce-Website)
+- 🔭 I’m currently working on an [E-Commerce Website](https://github.com/LewisBull2303/E-Commerce-Website)
 
 - 🌱 I’m currently learning **Django and dotnet**
 
