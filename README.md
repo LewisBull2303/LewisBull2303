@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lewis Bull</h1>
 <h3 align="center">A passionate Full-Stack Developer from England</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lewisbull2303&label=Profile%20views&color=0e75b6&style=flat" alt="lewisbull2303" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewisbull2303" alt="lewisbull2303" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [E-Commerce Website](https://github.com/LewisBull2303/E-Commerce-Website)
 
@@ -28,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewisbull2303&show_icons=true&locale=en&layout=compact" alt="lewisbull2303" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lewisbull2303&show_icons=true&locale=en" alt="lewisbull2303" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewisbull2303&" alt="lewisbull2303" /></p>
